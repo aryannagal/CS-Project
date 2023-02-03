@@ -3,6 +3,8 @@ My computer science project Pre-IB Term3, 2023
 
 Rock-Paper-Scissors Game in Java
 
+Target assessment level: 2
+
 Specification
 The Rock-Paper-Scissors game is a classic two-player game. The goal of the game is to determine which player wins by comparing the moves of both players. In this program, the player plays against the computer. The player enters an integer to make their move (1 for Rock, 2 for Paper, or 3 for Scissors), and the computer randomly generates its move. The program then outputs the result of the game and asks the player if they want to play again.
 
